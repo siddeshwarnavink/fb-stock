@@ -1,6 +1,9 @@
 # fb-stock
 A sample meachine learning code to guss the stock market price of [Facebook](https://en.wikipedia.org/wiki/Facebook,_Inc.)
 
+## 👾 Preview
+![App Preview](./preview/vokoscreen-2020-07-09_11-49-20.gif)
+
 ## 🤑 Getting Started
 ### Step 1: Clone the project
 First clone this repository using git
