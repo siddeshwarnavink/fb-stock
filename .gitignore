@@ -1,1 +1,4 @@
 FB.csv
+stock_model.pickle
+test_data.pickle
+__pycache__/
